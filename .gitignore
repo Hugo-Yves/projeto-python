@@ -1,0 +1,10 @@
+# Ignorar o ambiente virtual
+ambiente_virtual/
+
+# Pastas de cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiros de configuração de editores
+.vscode/
+.idea/
